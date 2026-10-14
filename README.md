@@ -91,7 +91,3 @@ sensitive data into untrusted tools.
 -   LinkedIn: https://www.linkedin.com/in/riabi-ghaith-2a1b09316
 -   Portfolio: https://ghaith-riabi-cyber.netlify.app/
 
-## License
-
-Add the license that applies to this project before distributing it
-publicly.
