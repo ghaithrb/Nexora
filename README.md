@@ -4,6 +4,8 @@
 tools for technology, development, network diagnostics, cybersecurity,
 and AI-assisted workflows in one application.
 
+![App Screenshot](./img/img.png)
+
 > **Status:** In development
 
 ## Features
